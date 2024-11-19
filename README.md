@@ -1,4 +1,5 @@
 # PawPal
+![image](https://github.com/user-attachments/assets/f2d8b3a2-699e-431f-afec-2d440b5a6239)
 
 **PawPal** is a React Native Expo mobile application that facilitates pet adoption. The app provides a platform for users to browse, mark favorites, and communicate about pets for adoption. It features a Firebase-integrated backend for storing pet and user data, while user authentication, login, and CAPTCHA verification are handled by Clerk.
 
