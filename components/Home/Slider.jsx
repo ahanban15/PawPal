@@ -34,6 +34,7 @@ export default function Slider() {
                 </View>
             )}
         />
+        <Text>Swipe for more ;)</Text>
     </View>
   )
 }
